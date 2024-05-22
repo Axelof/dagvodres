@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e8b1f38.chunk.css",
+    "main.js": "/static/js/main.e96db1e3.chunk.js",
+    "main.js.map": "/static/js/main.e96db1e3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb61c029.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb61c029.js.map",
+    "static/css/2.7f8f69ed.chunk.css": "/static/css/2.7f8f69ed.chunk.css",
+    "static/js/2.97b18358.chunk.js": "/static/js/2.97b18358.chunk.js",
+    "static/js/2.97b18358.chunk.js.map": "/static/js/2.97b18358.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7f8f69ed.chunk.css.map": "/static/css/2.7f8f69ed.chunk.css.map",
+    "static/css/main.3e8b1f38.chunk.css.map": "/static/css/main.3e8b1f38.chunk.css.map",
+    "static/js/2.97b18358.chunk.js.LICENSE.txt": "/static/js/2.97b18358.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/static/media/FuroreRegular.de679fb3.eot",
+    "static/media/logo.01d94411.png": "/static/media/logo.01d94411.png",
+    "static/media/object-front_view.b2532391.png": "/static/media/object-front_view.b2532391.png",
+    "static/media/observing_object.e86de8a4.jpeg": "/static/media/observing_object.e86de8a4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb61c029.js",
+    "static/css/2.7f8f69ed.chunk.css",
+    "static/js/2.97b18358.chunk.js",
+    "static/css/main.3e8b1f38.chunk.css",
+    "static/js/main.e96db1e3.chunk.js"
+  ]
+}

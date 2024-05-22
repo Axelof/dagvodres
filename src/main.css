@@ -1,0 +1,20 @@
+@font-face {
+    font-family: FuroreRegular;
+    src: url("fonts/Furore.ttf");
+    font-weight: bold;
+}
+
+#gradient-line {
+    position: fixed;
+    background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);
+    background-size: 400% 400%;
+    -webkit-animation: gradient 15s ease infinite;
+    animation: gradient 15s ease infinite;
+    width: 100vw;
+    height: 3px;
+    z-index: 90;
+}
+
+.vkuiPanelHeader__content-in {
+    font-family: FuroreRegular, serif !important;
+}
